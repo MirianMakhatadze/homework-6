@@ -1,0 +1,16 @@
+.header-div {
+	display: flex;
+	justify-content: space-between;
+	width: 1723px;
+	height: 43px;
+	margin: 0 auto;
+	margin-top: 64px;
+}
+.navigation {
+	display: flex;
+	justify-content: space-around;
+	width: 596px;
+	height: 27px;
+	color: #3D37F1;
+	font-size: 20px;
+}
