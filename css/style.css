@@ -242,12 +242,18 @@
 	margin-bottom: 130px;
 }
 .color4 {
-	background: #4386D2 linear-gradient(#0962C5);
-	colo
+	background: #4386D2;
 }
 .color5 {
 	background: #A5A2F6;
 }
 .color6 {
 	background: #FF8088;
+}
+                                                                      /*fonts*/
+.lato-font {
+	font-family: 'Lato';
+}
+.roboto-font {
+	font-family: 'Roboto';
 }
